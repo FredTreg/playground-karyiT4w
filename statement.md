@@ -4,6 +4,6 @@ This Kotlin template lets you get started quickly with a simple one-page playgro
 
 ```kotlin runnable
 fun main(args: Array<String>) {
-    println("Hello World4!")
+    println("Hello World5!")
 }
 ```
